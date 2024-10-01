@@ -2,7 +2,7 @@
 
 ### About OpenGEET
 
-OpenGEET is an open source implementation of Paul Pantone's GEET fuel preprocessor and emmisions reduction system. The goal of this project is to create a set *detailed and explicit* instructions for manufacture, installation and operation of the GEET system, for the purpose of reproducibility and independent validation. The initial versions of this project may not be functional.
+OpenGEET is an open source implementation of Paul Pantone's GEET fuel preprocessor and emmisions reduction system. The goal of this project is to create a set *detailed and explicit* instructions for manufacture, installation and operation of the GEET system, for the purpose of reproducibility and independent validation.
 
 ### Project structure and format
 
@@ -18,3 +18,5 @@ The project will consist of:
     * Firmware for all microcontrollers used in the above
     * Programs and scripts for processing collected data
     * Firmware manuals
+
+
